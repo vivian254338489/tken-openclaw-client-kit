@@ -1,0 +1,26 @@
+TKEN OpenClaw Client Kit
+
+Start here if you are not technical.
+
+1. Windows
+   Double-click START.bat
+
+2. macOS / Linux
+   Run:
+   sh START.sh
+
+3. Generated file
+   generated/openclaw.tken.json
+
+4. Need an API key?
+   https://www.tken.shop/
+
+5. Next step
+   Set TKEN_API_KEY in your environment.
+   Copy generated/openclaw.tken.json into your OpenClaw-style client.
+
+6. More help
+   Windows: double-click SUPPORT.bat to generate a support report.
+   macOS / Linux: run sh SUPPORT.sh
+   README.md
+   NEXT_STEPS.md
