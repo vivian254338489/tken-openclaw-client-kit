@@ -1,0 +1,12 @@
+{
+  "name": "tken-openclaw-client-kit",
+  "version": "0.6.1",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "preflight": "node preflight.mjs",
+    "generate": "node install.mjs",
+    "support:report": "node support-report.mjs",
+    "check": "node preflight.mjs && node install.mjs && node support-report.mjs"
+  }
+}
